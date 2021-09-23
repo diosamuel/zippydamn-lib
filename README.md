@@ -1,4 +1,4 @@
-<h1 align="center"> ZippyDamn!</h1>
+<h1 align="center"> ZippyDamn-lib!</h1>
 
 <h2 align="center">
 ZippyDamn-lib! is a ZippyShare Unofficial library (downloader & search) for nodejs</h2>
