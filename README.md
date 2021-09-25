@@ -28,10 +28,10 @@ npm install zippydamn-lib
 ## Usage
 
 ```bash
-const zippy = require('zippydamn')
+const zippy = require('zippydamn-lib')
 
-zippy.extract('https://www19.zippyshare.com/v/lKeHaNxX/file.html')
-zippy.search('Attarashi Gakko')
+await zippy.extract('https://www19.zippyshare.com/v/lKeHaNxX/file.html')
+await zippy.search('Attarashi Gakko')
 
 ```
 
