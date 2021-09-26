@@ -14,7 +14,7 @@ ZippyDamn-lib! is a ZippyShare Unofficial library (downloader & search) for node
 
 <div align="center">
 <img src="./logo.jpg">
-<img src="https://nodei.co/npm/zippydamn.png">
+<img src="https://nodei.co/npm/zippydamn-lib.png">
 </div>
 
 ## Installation
