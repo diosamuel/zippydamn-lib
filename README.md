@@ -13,7 +13,6 @@ ZippyDamn-lib! is a ZippyShare Unofficial library (downloader & search) for node
 </div>
 
 <div align="center">
-<img src="./logo.jpg">
 <img src="https://nodei.co/npm/zippydamn-lib.png">
 </div>
 
